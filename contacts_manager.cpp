@@ -12,6 +12,7 @@ struct Contact{
     string phone;
     string email;
 };
+
 const string FILE_NAME = "contacts.txt";
 const string CSV_FILE_NAME = "contacts.csv";
 
